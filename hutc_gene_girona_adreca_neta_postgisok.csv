@@ -1,0 +1,366 @@
+Codi de Registre;DC;Nom Establiment;Adreça;MUNICIPI;coord X;coord Y;COMARCA;MARCA;GRUP;Categoria;Email_;TELEFON;Codi Postal;carrer;numero;carrer_numero
+HUTG-000121         ;37;;Ballesteries, 23, 2n. 1a.;Girona;41.9858832;2.8248544000000493;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Ballesteries;23;Ballesteries,23
+HUTG-000122         ;36;;Ballesteries, 45, ent 2a.;Girona;41.9864134;2.824545100000023; ent 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Ballesteries;45;Ballesteries,45
+HUTG-000123         ;43;;Barca, 16, 1r. 3a.;Girona;41.3912516;2.1760960000000296;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Barca;16;Barca,16
+HUTG-000124         ;38;;Barca, 19, 1r. 3a.;Girona;41.3916273;2.175075099999958;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Barca;19;Barca,19
+HUTG-000125         ;64;;Barca, 19, 1r. 1a.;Girona;41.8975373;2.766247700000008;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Barca;19;Barca,19
+HUTG-000126         ;40;;Bonaventura Carreras Peralta, 7, 2n. B;Girona;41.9851676;2.8253660999999965;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Bonaventura Carreras Peralta;7;Bonaventura Carreras Peralta,7
+HUTG-000127         ;70;;Bonaventura Carreras Peralta, 7, 3r. B;Girona;41.9851676;2.8253660999999965;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Bonaventura Carreras Peralta;7;Bonaventura Carreras Peralta,7
+HUTG-000132         ;09;Girona Centre;Llibertat, 43 A;Girona;41.98457;2.8242649999999685;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacentre.com;;17004;Llibertat;43;Llibertat,43
+HUTG-000133         ;16;;Santa Clara, 8, 3r. 2a.;Girona;41.9824868;2.8228070000000116;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17001;Santa Clara;8;Santa Clara,8
+HUTG-000134         ;11;;Santa Clara, 16, 2n. 4a.;Girona;41.9832392;2.823034000000007;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17001;Santa Clara;16;Santa Clara,16
+HUTG-000394         ;12;Girona Centre;Rbla Llibertat, 43, 2n. B;Girona;41.98457;2.8242649999999685;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacentre.com;972224731;17004;Rbla Llibertat;43;Rbla Llibertat,43
+HUTG-000395         ;95;Girona Centre;Rbla Llibertat, 43, 3r. C;Girona;41.98457;2.8242649999999685;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacentre.com;972224731;17004;Rbla Llibertat;43;Rbla Llibertat,43
+HUTG-000531         ;91;El Jardi d'Alemanys 5;Alemanys, 5, 1r.;Girona;41.986275;2.826906000000008;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;5 CLAUS;;;17004;Alemanys;5;Alemanys,5
+HUTG-003737         ;86;;Argenteria, 10, pral 1a.;Girona;41.9847397;2.82455809999999; pral 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;932114323;17004;Argenteria;10;Argenteria,10
+HUTG-003738         ;63;Athenou-Glicínia;Portal Nou, 16, 3r. 1a.;Girona;41.9837154;2.8268822;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@athenou.com;;17004;Portal Nou;16;Portal Nou,16
+HUTG-003739         ;92;Athenou-Magnòlia;Portal Nou, 16, 3r. 2a.;Girona;41.9837154;2.8268822;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@athenou.com;;17004;Portal Nou;16;Portal Nou,16
+HUTG-004209         ;41;;Rbla Llibertat, 7, 1r. 1a.;Girona;41.9836487;2.8239006000000018;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;xevimonica@hotmail.com;972485055;17004;Rbla Llibertat;7;Rbla Llibertat,7
+HUTG-005580         ;22;;Rbla Llibertat, 15, 1r.;Girona;41.9838674;2.823982200000046;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972203393;17004;Rbla Llibertat;15;Rbla Llibertat,15
+HUTG-005581         ;25;;Rbla Llibertat, 15, 2n.;Girona;41.9838674;2.823982200000046;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972203393;17004;Rbla Llibertat;15;Rbla Llibertat,15
+HUTG-005582         ;24;;Rbla Llibertat, 15, 3r.;Girona;41.9838674;2.823982200000046;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972203393;17004;Rbla Llibertat;15;Rbla Llibertat,15
+HUTG-006552         ;31;El Reientinc;Carme Auguet, 5;Girona;41.9892141;2.837723600000004;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;reientinc@gmail.com;972202582;17007;Carme Auguet;5;Carme Auguet,5
+HUTG-007522         ;18;;Sant Agustí, 46-48, 1r. 3a.;Girona;41.9706231;2.8209739999999783;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;marisaricart@hotmail.com;972212719;17003;Sant Agustí;46;Sant Agustí,46
+HUTG-008761         ;19;;Joaquim Botet i Sirò, 7, 2n. 1a.;Girona;41.9724457;2.8256043999999747; 2n. 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;miriam.montes.guidux@gmail.com;626401163;17003;Joaquim Botet i Sirò;7;Joaquim Botet i Sirò,7
+HUTG-008948         ;22;;Rda Pedret, 7, escala 1, 5è. 3a.;Girona;41.9910668;2.8250613999999814;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17007;Rda Pedret;7;Rda Pedret,7
+HUTG-009089         ;56;;Pl Oli, 6, 1r. A;Girona;41.99624559999999;2.800109799999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gires.com;677919815;17004;Pl Oli;6;Pl Oli,6
+HUTG-009090         ;81;;Pl Oli, 6, 2n. B;Girona;41.99624559999999;2.800109799999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gires.com;677919815;17004;Pl Oli;6;Pl Oli,6
+HUTG-009395         ;33;Girona Cool Apartments;Calderers, 3, 1r. 1a.;Girona;41.9877956;2.82425139999998;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacoolapartments.com;+34628596687;17004;Calderers;3;Calderers,3
+HUTG-009398         ;68;Girona Cool Apartments;Calderers, 3, 1r. 2a.;Girona;41.98743169999999;2.8240878000000293;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacoolapartments.com;+34628596687;17004;Calderers;3;Calderers,3
+HUTG-009400         ;61;Girona Cool Apartments;Calderers, 3, 2n. 1a.;Girona;41.98743169999999;2.8240878000000293;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacoolapartments.com;+34628596687;17004;Calderers;3;Calderers,3
+HUTG-009417         ;58;Girona Cool Apartments;Calderers, 3, 2n. 2a.;Girona;41.98743169999999;2.8240878000000293;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacoolapartments.com;+34628596687;17004;Calderers;3;Calderers,3
+HUTG-009418         ;02;Girona Cool Apartments;Calderers, 3, 3r. 2a.;Girona;41.98743169999999;2.8240878000000293;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacoolapartments.com;+34628596687;17004;Calderers;3;Calderers,3
+HUTG-010332         ;64;;Pda Rei Marti,8;Girona;41.9885959;2.825406199999975; bxs 4a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972825180;17004;Pda Rei Marti;8;Pda Rei Marti,8
+HUTG-010333         ;71;;Pda Rei Marti,8;Girona;41.9842638;2.82648370000004; escala 1; 1r. 1a.	Girona;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972825180;;Pda Sant Martí;8;Pda Sant Martí,8
+HUTG-010336         ;68;;Barca, 16-18, 1r. 3a.;Girona;41.98110579999999;2.8187328000000207;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;xavisoms@gmail.com;625343050;;Barca;16;Barca,16
+HUTG-010350         ;64;;Barca, 16-18, 2n. 2a.;Girona;41.4280489;2.1356969999999365;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Barca;16;Barca,16
+HUTG-010473         ;80;;Portal de la Barca, 3, 1r. D;Girona;41.9887121;2.824538899999993;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Portal de la Barca;3;Portal de la Barca,3
+HUTG-010474         ;75;;Força, 8, 2n.;Girona;41.9859309;2.8252122999999756;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;xcanosa@coac.es;610221349;17002;Força;8;Força,8
+HUTG-010517         ;24;;Santa Clara, 30, 2n.;Girona;41.9837002;2.8232439999999315;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;onyarrivercenterapartments@hotmail.com;670453198;17001;Santa Clara;30;Santa Clara,30
+HUTG-010721         ;21;;Bellaire, 9-11, 2n. 1a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010722         ;20;;Bellaire, 9-11, 2n. 3a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416397;17004;Bellaire;9;Bellaire,9
+HUTG-010723         ;27;;Bellaire, 9-11, 2n. 5a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010724         ;22;;Bellaire, 9-11, 2n. 4a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010725         ;01;;Bellaire, 9-11, 1r. 4a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010726         ;24;;Bellaire, 9-11, 1r. 2a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010727         ;07;;Bellaire, 9-11, 3r. 5a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010728         ;26;;Bellaire, 9-11, 3r. 3a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010729         ;13;;Bellaire, 9-11, 1r. 5a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010730         ;88;;Bellaire, 9-11, 3r. 2a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-010836         ;65;;Bellaire, 9-11, 2n. 2a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972825180;17004;Bellaire;9;Bellaire,9
+HUTG-010837         ;29;;Bellaire, 9-11, 1r. 1a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972825180;17004;Bellaire;9;Bellaire,9
+HUTG-010838         ;67;;Bellaire, 9-11, 1r. 3a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972436391;17004;Bellaire;9;Bellaire,9
+HUTG-011092         ;40;;Portal de la Barca, 3, 1r. C;Girona;41.9887121;2.824538899999993;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Portal de la Barca;3;Portal de la Barca,3
+HUTG-011193         ;40;;Escales de la Llebre, 4, bxs;Girona;42.1401307;3.066721599999937; bxs	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;brisual@gmail.com;972217131;17004;Escales de la Llebre;4;Escales de la Llebre,4
+HUTG-011549         ;12;;Barca, 17, 1r. 2a.;Girona;41.9887388;2.824346999999989;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Barca;17;Barca,17
+HUTG-011817         ;38;;Pl Marquès de Camps, 8, 4t. 2a.;Girona;41.9819705;2.8187253999999484;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;bookings@girona-accommodation.com;695097612;17002;Pl Marquès de Camps;8;Pl Marquès de Camps,8
+HUTG-012388         ;23;;Carme, 44, 3r. 1a.;Girona;41.97435970000001;2.8274145999999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Carme;44;Carme,44
+HUTG-012389         ;80;;Carme, 44, 4t. 1a.;Girona;41.97435970000001;2.8274145999999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Carme;44;Carme,44
+HUTG-012391         ;11;;Bellaire, 9-11, 3r. 1a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-012392         ;10;;Bellaire, 9-11, 3r. 4a.;Girona;41.9891945;2.8247843999999986;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Bellaire;9;Bellaire,9
+HUTG-012393         ;17;Pau Casals;Pau Casals, 32, 5è. 8a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-012394         ;12;Pau Casals;Pau Casals, 32, 2n. 4a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-012573         ;05;;Pau Casals, 32, 1r. 4a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-012574         ;00;;Pau Casals, 32, 4t. 1a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-012575         ;72;;Pau Casals, 32, 4t. 3a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-012576         ;02;;Pau Casals, 32, 4t. 11;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-012577         ;78;;Pau Casals, 32, 5è. 1a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-012685         ;75;;Sant Daniel, 4;Girona;41.988466;2.8274688999999853;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;huvemix@gmail.com;619678131;17007;Sant Daniel;4;Sant Daniel,4
+HUTG-012686         ;12;;Pau Casals, 32, 5è. 6a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972226405;17001;Pau Casals;32;Pau Casals,32
+HUTG-012808         ;37;;Calderers, 12, 1r. 1a.;Girona;41.9877956;2.82425139999998;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;695460053;17004;Calderers;12;Calderers,12
+HUTG-012809         ;26;;Ballesteries, 45, ent 1a.;Girona;41.9864134;2.824545100000023; ent 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;618536852;17004;Ballesteries;45;Ballesteries,45
+HUTG-012981         ;20;;Cardenal Margarit, 12, bloc C, 1r. 3a.;Girona;41.9761265;2.8211383000000296; bloc C; 1r. 3a.	Girona;HAB. ÚS TURÍSTIC;-;silxat@gmail.com;687099417;17002;Cardenal Margarit;12;Cardenal Margarit,12
+HUTG-012982         ;19;;Rda Pedret, 8, 1r. 4a.;Girona;41.99036479999999;2.824514499999964;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;salvador@girorooms.com;972416391;17007;Rda Pedret;8;Rda Pedret,8
+HUTG-013046         ;67;;Antich Roca, 23;Girona;41.9738032;2.8231172000000697;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;686722969;17003;Antich Roca;23;Antich Roca,23
+HUTG-013141         ;73;;Ciutadans, 16, 2n. 1a.;Girona;41.9840301;2.825399500000003;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;marc@barrivellgirona.cat;972416236;17004;Ciutadans;16;Ciutadans,16
+HUTG-013143         ;79;;41.9885959;Girona;41.9885959;2.825406199999975; bxs 5a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Pda Rei Martí;8;Pda Rei Martí,8
+HUTG-013367         ;34;;Calderers, 10, 4t. 2a.;Girona;41.987593;2.8241912999999386;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;jmartiarnau@hotmail.com;616233433;17004;Calderers;10;Calderers,10
+HUTG-014071         ;87;;Barcelona, 93, 6è. 1a.;Girona;41.9714588;2.8150768000000426;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;roser.deulofeu@gmail.com;607073354;17003;Barcelona;93;Barcelona,93
+HUTG-014072         ;86;;Rosa, 11 A;Girona;41.9896103;2.825731200000064;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;keisey@hotmail.com;636197725;17007;Rosa;11;Rosa,11
+HUTG-014073         ;93;;Abeuradors, 7-9, 2n. 1a.;Girona;41.9834115;2.8242708999999877;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;mping2@gmail.com;616023269;17004;Abeuradors;7;Abeuradors,7
+HUTG-014776         ;71;El Badiu d'Alemanys 5;Alemanys, 5 2a.;Girona;41.9863083;2.8268421999999873;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;5 CLAUS;;670213411;17004;Alemanys;5;Alemanys,5
+HUTG-014777         ;89;Apartaments AG;Olivera, 24, bxs 2a.;Girona;41.9760338;2.826695500000028; bxs 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972490276;17004;Olivera;24;Olivera,24
+HUTG-014778         ;73;Can Roura;Sant Daniel, 26, bxs 1a.;Girona;41.99111;2.8409699999999702; bxs 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;reserves@canrouragirona.com;666466789;17007;Sant Daniel;26;Sant Daniel,26
+HUTG-014779         ;95;Livingirona;Camp d'Or, 2, bxs 3a.;Girona;41.9957165;2.833546999999953; bxs 3a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;649424949;17007;Camp d'Or;2;Camp d'Or,2
+HUTG-014780         ;17;Hap-Dreams;Portal Nou, 28;Girona;41.9841686;2.8271349999999984;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609370846;17004;Portal Nou;28;Portal Nou,28
+HUTG-014781         ;20;Qlodging;41.9886849;Girona;41.9886849;2.829401100000041; 1r.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;shellyhill1@gmail.com;656499808;17007;Pda Torrassa;68;Pda Torrassa,68
+HUTG-014782         ;19;;Abeuradors, 7, 2n. 1a.;Girona;41.9834115;2.8242708999999877;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616023269;17004;Abeuradors;7;Abeuradors,7
+HUTG-014783         ;26;;Alemanys, 12 2a.;Girona;41.986326;2.8273380000000543;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;alfredjulbe@gmail.com;669462878;17004;Alemanys;12;Alemanys,12
+HUTG-014784         ;21;;Bailen, 6, 3r. 1a.;Girona;41.97994629999999;2.8178676999999652;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;casamercegirona@gmail.com;675780031;17002;Bailen;6;Bailen,6
+HUTG-014785         ;88;;Barca, 16-18, 2n. 4a.;Girona;41.9886148;2.8244234000000006;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;admin@staytogether.es;935400548;17004;Barca;16;Barca,16
+HUTG-014786         ;23;;Barca, 17, 4t. 1a.;Girona;41.9887388;2.824346999999989;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;667454862;17004;Barca;17;Barca,17
+HUTG-014787         ;94;;Barcelona, 93, 6è. 1a.;Girona;41.9714588;2.8150768000000426;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972416236;17003;Barcelona;93;Barcelona,93
+HUTG-014788         ;25;;Campdora, 88;Girona;42.0220496;2.840717199999972;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;marc@barrivellgirona.cat;972416236;17007;Campdora;88;Campdora,88
+HUTG-014789         ;03;;Ciutadans, 1, 1r. 1a.;Girona;41.98337129999999;2.8248399999999947;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;644773681;17004;Ciutadans;1;Ciutadans,1
+HUTG-014791         ;31;;Creu, 3, 6è. 4a.;Girona;41.9768779;2.822315300000014;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joanribemarrec@gmail.com;636023558;17003;Creu;3;Creu,3
+HUTG-014792         ;30;;Guillem Minali, 2 2a.;Girona;41.9842154;2.8253379000000223;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972223583;17004;Guillem Minali; 2 2;Guillem Minali, 2 2
+HUTG-014793         ;37;;Rosa, 11;Girona;41.9896103;2.825731200000064;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;636197725;17007;Rosa;11;Rosa,11
+HUTG-014794         ;32;;Pl Sant Pere, 10, 1r.;Girona;41.989797;2.825452100000007;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;630019961;17007;Pl Sant Pere;10;Pl Sant Pere,10
+HUTG-014852         ;72;;Cort Reial, 3, 1r. B;Girona;41.9847441;2.825118800000041;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;jaume.feliu@gmail.com;652908797;17001;Cort Reial;3;Cort Reial,3
+HUTG-014854         ;74;;Pau Casals, 32, 5è. 5a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-014855         ;36;;Pau Casals, 32, 3r. 4a.;Girona;41.9826579;2.812217799999985;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carmina.sojo@gmail.com;972224880;17001;Pau Casals;32;Pau Casals,32
+HUTG-014857         ;42;;Pl Lledoners, 1, 1r. 1a.;Girona;41.9864867;2.8263191999999435;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;puiglloguers@gmail.com;626774278;17004;Pl Lledoners;1;Pl Lledoners,1
+HUTG-014858         ;78;;Pl Lledoners, 1, 2n. 1a.;Girona;41.9864867;2.8263191999999435;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;puiglloguers@gmail.com;626774278;17004;Pl Lledoners;1;Pl Lledoners,1
+HUTG-014859         ;48;;Pl Lledoners, 1, 3r. 1a.;Girona;41.9864867;2.8263191999999435;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;puiglloguers@gmail.com;626774278;17004;Pl Lledoners;1;Pl Lledoners,1
+HUTG-014860         ;52;Bright, Riverside Apartments;Rda Pedret, 4, 1r. 2a.;Girona;41.9901318;2.8242850999999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;karen@cantorras.com;972468731;17007;Rda Pedret;4;Rda Pedret,4
+HUTG-015562         ;77;Luxury apartaments Jewish quarter;Força, 6, pral 1a.;Girona;41.9858386;2.825260999999955; pral 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;fybern@project-land.com;661217703;17004;Força;6;Força,6
+HUTG-015566         ;81;;Ciutadans, 1, 1r. 1a.;Girona;41.98337129999999;2.8248399999999947;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;olga@swifttravel.com;972221536;17004;Ciutadans;1;Ciutadans,1
+HUTG-015606         ;21;;Cort Reial, 4, 3r. 1a.;Girona;41.9848633;2.8255077999999685;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;649440205;17004;Cort Reial;4;Cort Reial,4
+HUTG-016129         ;15;;Ginesta, 9, 1r. 1a.;Girona;41.9816936;2.8224159999999756;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;monicabarba@bcn-acmar.com;934125784;17002;Ginesta;9;Ginesta,9
+HUTG-016130         ;30;;Ginesta, 9, 1r. 2a.;Girona;41.9816936;2.8224159999999756;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;monicabarba@bcn-acmar.com;934125784;17002;Ginesta;9;Ginesta,9
+HUTG-016131         ;33;;Ginesta, 9, 2n. 1a.;Girona;41.9816936;2.8224159999999756;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;monicabarba@bcn.acmaritimas.com;934125784;17002;Ginesta;9;Ginesta,9
+HUTG-016132         ;32;;Ginesta, 9, 3r. 1a.;Girona;41.9816936;2.8224159999999756;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;monicabarba@bcn-acmaritimas.com;934125784;17002;Ginesta;9;Ginesta,9
+HUTG-016133         ;39;;Ginesta, 9, 3r. 2a.;Girona;41.9816936;2.8224159999999756;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;monicabarba@bcn-acmaritimas.com;934125784;17002;Ginesta;9;Ginesta,9
+HUTG-016203         ;43;;Rosa, 5, 1r. 3a.;Girona;41.9895778;2.8259517000000187;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@payetvacances.com;972750702;17007;Rosa;5;Rosa,5
+HUTG-016204         ;38;;Sant Antoni Maria Claret, 26, 2n. 1a.;Girona;41.9791827;2.8214823000000706;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;mcpatricia.mon@gmail.com;687731230;17002;Sant Antoni Maria Claret;26;Sant Antoni Maria Claret,26
+HUTG-016205         ;64;;Riu Güell, 12, 2n. A;Girona;41.9852959;2.817902199999935;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;togubo@hotmail.com;675510988;17001;Riu Güell;12;Riu Güell,12
+HUTG-016210         ;64;;Barca, 17, 4t. 1a.;Girona;41.9887388;2.824346999999989;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Barca;17;Barca,17
+HUTG-016406         ;46;;41.9869275;Girona;41.9869275;2.824472799999967; 4t.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;ribarra@patrimoniaassociats.com;972900300;17001;Pda Sant Feliu;17;Pda Sant Feliu,17
+HUTG-016684         ;33;;Barca, 16-18, 3r. 3a.;Girona;41.98110579999999;2.8187328000000207;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;esther.benitez@gmail.com;678457427;17004;Barca;16;Barca,16
+HUTG-017450         ;03;;Santa Eugènia, 11, 10è. 1a.;Girona;41.9812199;2.816905600000041;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;narcis.cots@enginyers.net;660432136;17005;Santa Eugènia;11;Santa Eugènia,11
+HUTG-017511         ;05;;Neu, 1, 1r. 2a.;Girona;41.9839379;2.8248479999999745;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;nuseor@gmail.com;622349812;17004;Neu;1;Neu,1
+HUTG-017512         ;04;;Neu, 1, 1r. 1a.;Girona;41.8975373;2.766247700000008;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;nuseor@gmail.com;622349812;17004;Neu;1;Neu,1
+HUTG-017513         ;11;;Força, 11, 1r. B;Girona;41.985792;2.825189499999965;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;amadeumonso@gmail.com;629794360;17004;Força;11;Força,11
+HUTG-017514         ;06;;Cort Reial, 17, ent 2a.;Girona;41.9848489;2.824982699999964; ent 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;meritxellroig1@gmail.com;972492729;17004;Cort Reial;17;Cort Reial,17
+HUTG-017515         ;35;;Calderers, 12, 1r. 1a.;Girona;41.9877956;2.82425139999998;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;lauraplanella@gmail.com;607607396;17004;Calderers;12;Calderers,12
+HUTG-017516         ;08;;Veïnat Campdorà, 91;Girona;42.032601;2.8373626999999715;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;alejanyol@hotmail.com;972864798;17461;Veïnat Campdorà;91;Veïnat Campdorà,91
+HUTG-017517         ;41;;Carme, 73, 1r. 2a.;Girona;41.9782403;2.8245911000000206;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joan@stayingirona.com;636023558;17004;Carme;73;Carme,73
+HUTG-017518         ;10;;Barca, 25, 2n. 2a.;Girona;41.9889964;2.8245888999999806;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;togubo@hotmail.com;675510988;17004;Barca;25;Barca,25
+HUTG-017519         ;47;;41.9888179;Girona;41.9888179;2.8298948000000337; 2n.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;s.brinati@sleepandstay.com;615664510;17007;Pda Torrassa;60;Pda Torrassa,60
+HUTG-017520         ;89;;Portal de la Barca, 12, bxs 2a.;Girona;41.9884086;2.8249141999999665; bxs 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joan@stayingirona.com;636023558;17004;Portal de la Barca;12;Portal de la Barca,12
+HUTG-017521         ;92;;Carme, 115, 1r. D;Girona;41.97718;2.8244099999999435;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joan@stayingirona.com;636023558;17004;Carme;115;Carme,115
+HUTG-018201         ;00;;Jaume Pons i Martí, 22, 3r. A;Girona;41.9885789;2.8241242000000284;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;delsil@yahoo.com;660780802;17004;Jaume Pons i Martí;22;Jaume Pons i Martí,22
+HUTG-018202         ;96;;Pda Rei Martí, 8, 2n. 5a.;Girona;41.9885959;2.825406199999975;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;j.huizing@sleepandstay.com;972840236;17004;Pda Rei Martí;8;Pda Rei Martí,8
+HUTG-018203         ;06;;Ballesteries, 34-36, 1r.;Girona;41.9862466;2.8247928000000684;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;alexurko@gmail.com;629753688;17004;Ballesteries;34;Ballesteries,34
+HUTG-018204         ;01;;Ballesteries, 38-42;Girona;41.9862992;2.824771100000021;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;alexurko@gmail.com;629753688;17004;Ballesteries;38;Ballesteries,38
+HUTG-018697         ;32;;41.98883259999999;Girona;41.98883259999999;2.8299807999999302; 2n.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;omolinos@gmail.com;972217089;17007;Pda Torrassa;58;Pda Torrassa,58
+HUTG-018698         ;77;;Ballesteries, 26, 2n.;Girona;41.9847538;2.824493699999948;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@qlodging.com;972205263;17004;Ballesteries;26;Ballesteries,26
+HUTG-018699         ;38;;Ballesteries, 26, 1r.;Girona;41.98608429999999;2.8248579999999492;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@qlodging.com;972205263;17004;Ballesteries;26;Ballesteries,26
+HUTG-018700         ;70;;Ferreries Velles, 1, 2n. 3a.;Girona;41.98341509999999;2.824646199999961;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;edu.davalos.canovas@gmail.com;675048420;17004;Ferreries Velles;1;Ferreries Velles,1
+HUTG-018701         ;73;;Joan Alsina i Hurtós, 13, 2n. 2a.;Girona;41.6418712;2.361671900000033; 2n. 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;carme.jutglar@gmail.com;699741488;17004;Joan Alsina i Hurtós;13;Joan Alsina i Hurtós,13
+HUTG-018755         ;76;;Nou del Teatre, 9, 3r.;Girona;41.982578;2.825947499999984;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609853853;17004;Nou del Teatre;9;Nou del Teatre,9
+HUTG-018757         ;82;;Costabona, 33, 2n. 2a.;Girona;41.9773335;2.802220499999976;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;685484107;17004;Costabona;33;Costabona,33
+HUTG-019302         ;95;AS Palau dels Alemanys;Alemanys, 10, 1r.;Girona;41.986326;2.8273380000000543;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;5 CLAUS;;618536852;17004;Alemanys;10;Alemanys,10
+HUTG-019303         ;05;AS Palau dels Alemanys;Alemanys, 10, 2n.;Girona;41.986326;2.8273380000000543;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;5 CLAUS;;618536852;17004;Alemanys;10;Alemanys,10
+HUTG-019304         ;00;AS Palau dels Alemanys;Alemanys, 10, 3r.;Girona;41.986326;2.8273380000000543;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;5 CLAUS;;618536852;17004;Alemanys;10;Alemanys,10
+HUTG-019322         ;18;;Portal de la Barca, 15, 3r. A;Girona;41.9883756;2.8250742000000173;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;667606655;17002;Portal de la Barca;15;Portal de la Barca,15
+HUTG-019323         ;25;;Carme, 73, 1r. 1a.;Girona;41.9782403;2.8245911000000206;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;636023558;17004;Carme;73;Carme,73
+HUTG-019548         ;74;;Cor de Maria, 10, 7è. 2a.;Girona;41.9755467;2.818222500000047;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;653866449;17002;Cor de Maria;10;Cor de Maria,10
+HUTG-019549         ;08;;41.9805868;Girona;41.98055890000001;2.8246977000000015; 4t. 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;605617250;17004;Pda Pedreres;4;Pda Pedreres,4
+HUTG-019550         ;22;;Juli Garreta, 16, 2n. 2a.;Girona;41.9792404;2.819096899999977;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;690722778;17004;Juli Garreta;16;Juli Garreta,16
+HUTG-019551         ;25;;41.9885959;Girona;41.9885959;2.825406199999975; bxs 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;660432136;17004;Pda Rei Martí;8;Pda Rei Martí,8
+HUTG-019552         ;24;;Ballesteries, 3, 2n. 2a.;Girona;41.9841991;2.8254121999999597;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;610462874;17004;Ballesteries;3;Ballesteries,3
+HUTG-019553         ;31;;Ballesteries, 3, 3r. 1a.;Girona;41.9854845;2.8249304999999367;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;610462874;17004;Ballesteries;3;Ballesteries,3
+HUTG-019567         ;08;;Sant Daniel, 4, bxs 2a.;Girona;41.988466;2.8274688999999853; bxs 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;619678131;17007;Sant Daniel;4;Sant Daniel,4
+HUTG-019568         ;94;;Trv Auriga, 8, 2n.;Girona;41.9823039;2.8250909999999294;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;675780031;17004;Trv Auriga;8;Trv Auriga,8
+HUTG-019569         ;14;;Pl Sant Josep, 4, 2n. 2a.;Girona;41.9837728;2.8259548999999424;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609712740;17004;Pl Sant Josep;4;Pl Sant Josep,4
+HUTG-019570         ;82;;Cort Reial, 3, 2n. 1a.;Girona;41.9847441;2.825118800000041;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;619537418;17004;Cort Reial;3;Cort Reial,3
+HUTG-019571         ;85;;Santa Eugènia, 18, 3r. 2a.;Girona;41.98207130000001;2.8181640000000243;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;625530025;17001;Santa Eugènia;18;Santa Eugènia,18
+HUTG-020351         ;74;;41.9867018;Girona;41.98692630000001;2.82571310000003; 1r. 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972223583;17004;Pda Catedral;7;Pda Catedral,7
+HUTG-020352         ;73;;Francesc Rogés, 30, 2n. 2a.;Girona;41.9836542;2.816560299999992;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;636552892;17005;Francesc Rogés;30;Francesc Rogés,30
+HUTG-020353         ;80;;Rbla Llibertat, 14, 4t.;Girona;41.983127;2.824003599999969;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629638384;17004;Rbla Llibertat;14;Rbla Llibertat,14
+HUTG-020354         ;75;;Mare de Déu del Remei, 36, 2n. 2a.;Girona;41.9783251;2.8111582999999882;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;675510988;17006;Mare de Déu del Remei;36;Mare de Déu del Remei,36
+HUTG-020355         ;46;;Pl Oli, 6, 3r. A;Girona;41.99624559999999;2.800109799999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;674204673;17004;Pl Oli;6;Pl Oli,6
+HUTG-020356         ;77;;Pl Oli, 6, 3r. B;Girona;41.99624559999999;2.800109799999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;674204673;17004;Pl Oli;6;Pl Oli,6
+HUTG-020357         ;52;;Perill, 8, 1r.;Girona;41.98361939999999;2.8225889999999936;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629838358;17004;Perill;8;Perill,8
+HUTG-020358         ;79;;Perill, 8, 3r.;Girona;41.98361939999999;2.8225889999999936;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629838358;17004;Perill;8;Perill,8
+HUTG-020359         ;58;;Perill, 8, 4t.;Girona;41.98361939999999;2.8225889999999936;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629838358;17004;Perill;8;Perill,8
+HUTG-020566         ;53;;Carme, 73, 2n. 2a.;Girona;41.9782403;2.8245911000000206;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;636023558;17004;Carme;73;Carme,73
+HUTG-020675         ;37;;Carme, 73, 3r. 1a.;Girona;41.9782403;2.8245911000000206;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;636023558;17004;Carme;73;Carme,73
+HUTG-020676         ;47;;Germans Busquets, 2, 4t.;Girona;41.983185;2.8241596999999956;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629137023;17004;Germans Busquets;2;Germans Busquets,2
+HUTG-020789         ;04;;Pg Devesa, 23, 1r. 1a.;Girona;41.9849045;2.8144039999999677;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;660986090;17001;Pg Devesa;23;Pg Devesa,23
+HUTG-020790         ;29;;Castell de Perelada, 20 B, 2n. 2a.;Girona;41.970812;2.822750199999973;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609012866;17003;Castell de Perelada;20;Castell de Perelada,20
+HUTG-020791         ;32;;41.9867018;Girona;41.98692630000001;2.82571310000003; 2n. 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972223583;17004;Pda Catedral;7;Pda Catedral,7
+HUTG-020792         ;31;;41.9867018;Girona;41.98692630000001;2.82571310000003; 2n. 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972223583;17004;Pda Catedral;7;Pda Catedral,7
+HUTG-020793         ;38;;41.9867018;Girona;41.98692630000001;2.82571310000003; 2n. 3a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972223583;17004;Pda Catedral;7;Pda Catedral,7
+HUTG-020794         ;33;;41.9867018;Girona;41.98692630000001;2.82571310000003; 2n. 4a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972223583;17004;Pda Catedral;7;Pda Catedral,7
+HUTG-020874         ;08;;Rda Ferran Puig, 23, 3r. 3a.;Girona;41.983946;2.8176716000000397;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;676903221;17004;Rda Ferran Puig;23;Rda Ferran Puig,23
+HUTG-020875         ;55;;Bonaventura Carreras Peralta, 5, 3r. 1a.;Girona;41.9850253;2.8255153000000064;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609839762;17004;Bonaventura Carreras Peralta;5;Bonaventura Carreras Peralta,5
+HUTG-020887         ;33;;José Canalejas, 2, escala 6, 3r. 1a.;Girona;41.9867331;2.8233534999999392;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609839762;17001;José Canalejas;2;José Canalejas,2
+HUTG-020888         ;48;;41.9887115;Girona;41.9887115;2.8254047000000355; 1r. 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972241642;17004;Pda Rei Martí;11;Pda Rei Martí,11
+HUTG-021312         ;85;;Rbla Llibertat, 32, 3r. 1a.;Girona;41.9838499;2.8244099999999435;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;645762379;17004;Rbla Llibertat;32;Rbla Llibertat,32
+HUTG-021313         ;92;;Tomás de Lorenzana, 37, escala A, 3r. 2a.;Girona;41.9785417;2.8199538000000075; escala A; 3r. 2a.	Girona;HAB. ÚS TURÍSTIC;-;;610633427;17002;Tomás de Lorenzana;37;Tomás de Lorenzana,37
+HUTG-021314         ;87;;Ferran Agulló i Vidal, 8, 1r.;Girona;41.7216768;2.9295157000000245; 1r.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;620846665;17002;Ferran Agulló i Vidal;8;Ferran Agulló i Vidal,8
+HUTG-021315         ;69;;Àngela Bivern i Puig, 8;Girona;41.996431;2.8274692999999615;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;667550725;17007;Àngela Bivern i Puig;8;Àngela Bivern i Puig,8
+HUTG-021316         ;89;;Ballesteries, 16, 2n.;Girona;41.9847538;2.824493699999948;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629176045;17004;Ballesteries;16;Ballesteries,16
+HUTG-021317         ;75;;Àngel, 5;Girona;41.9897152;2.8264297000000624;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;615664510;17007;Àngel;5;Àngel,5
+HUTG-021318         ;91;;Nou del Teatre, 20, bxs 2a.;Girona;41.9825208;2.8258160999999973; bxs 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;675889392;17004;Nou del Teatre;20;Nou del Teatre,20
+HUTG-021494         ;72;;Sant Josep, 4, 3r.;Girona;41.98336399999999;2.8257112999999663;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616531815;17004;Sant Josep;4;Sant Josep,4
+HUTG-021495         ;16;;Hortes, 20, 3r. 1a.;Girona;41.9845421;2.822411099999954;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972241253;17001;Hortes;20;Hortes,20
+HUTG-021497         ;22;;Cort Reial, 12, 1r.;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;669109880;17004;Cort Reial;12;Cort Reial,12
+HUTG-021498         ;76;;Ramon Turró, 13, 1r.;Girona;41.983289;2.8174245000000155;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;653210884;17001;Ramon Turró;13;Ramon Turró,13
+HUTG-021499         ;28;;Ramon Turró, 13, 2n.;Girona;41.983289;2.8174245000000155;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;653210884;17001;Ramon Turró;13;Ramon Turró,13
+HUTG-021500         ;14;;Ramon Turró, 13, 3r.;Girona;41.983289;2.8174245000000155;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;653210884;17001;Ramon Turró;13;Ramon Turró,13
+HUTG-021579         ;35;Bright, Riverside Apartments;Rda Pedret, 6, 1r. 2a.;Girona;41.990246;2.824397500000032;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;Karen@cantorras.com;972468731;17007;Rda Pedret;6;Rda Pedret,6
+HUTG-021580         ;94;;Germans Busquets, 2, 3r.;Girona;41.983185;2.8241596999999956;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972416391;17004;Germans Busquets;2;Germans Busquets,2
+HUTG-021581         ;00;;Muralla, 3, 1r.;Girona;41.9862326;2.8295848000000206;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;675601180;17004;Muralla;3;Muralla,3
+HUTG-021582         ;96;;Força, 4, pral 2a.;Girona;41.9856395;2.8253432000000203; pral 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;639330691;17004;Força;4;Força,4
+HUTG-021583         ;06;;Trav Portal Nou, 4, 1r. 2a.;Girona;41.9844263;2.826779600000009;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972218018;17004;Trav Portal Nou;4;Trav Portal Nou,4
+HUTG-021584         ;01;;Trav Portal Nou, 4, bxs;Girona;41.9844263;2.826779600000009; bxs	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972218018;17004;Trav Portal Nou;4;Trav Portal Nou,4
+HUTG-021765         ;62;;Pl Marquès de Camps, 8, 1r. 2a.;Girona;41.9819705;2.8187253999999484;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;606973035;17001;Pl Marquès de Camps;8;Pl Marquès de Camps,8
+HUTG-021766         ;01;;Barcelona, 7, 3r. 2a.;Girona;41.98108;2.8189758999999412;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;647793479;17002;Barcelona;7;Barcelona,7
+HUTG-021767         ;68;;Barca, 16-18, 2n. 1a.;Girona;41.98110579999999;2.8187328000000207;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;696137488;17004;Barca;16;Barca,16
+HUTG-021768         ;03;;Pou Rodó, 7, 2n. 1a.;Girona;41.9886622;2.8248905000000377;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;605311860;17004;Pou Rodó;7;Pou Rodó,7
+HUTG-021769         ;74;;Ballesteries, 3, 2n. 1a.;Girona;41.9841991;2.8254121999999597;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;610462874;17004;Ballesteries;3;Ballesteries,3
+HUTG-021770         ;45;;Portal Nou, 4, bxs 3a.;Girona;41.98195;2.8254399999999578; bxs 3a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;670341034;17004;Portal Nou;4;Portal Nou,4
+HUTG-021771         ;48;;Ballesteries, 3, 3r. 2a.;Girona;41.9854845;2.8249304999999367;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;610462874;17004;Ballesteries;3;Ballesteries,3
+HUTG-022140         ;45;;41.9805868;Girona;41.98055890000001;2.8246977000000015; 3r. 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;649220098;17004;Pda Pedreres;4;Pda Pedreres,4
+HUTG-022141         ;48;;Francesc Artau, 8, 1r. C;Girona;41.9783089;2.8130665999999565;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;675510988;17005;Francesc Artau;8;Francesc Artau,8
+HUTG-022142         ;47;;Pou Rodó, 7-9, 3r. D;Girona;41.9886622;2.8248905000000377;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;687153783;17004;Pou Rodó;7;Pou Rodó,7
+HUTG-022143         ;54;;Portal de la Barca, 15, 1r. C;Girona;41.9883756;2.8250742000000173;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;717194632;17004;Portal de la Barca;15;Portal de la Barca,15
+HUTG-022144         ;49;;Ballesteries, 39, 1r. 1a.;Girona;41.8975373;2.766247700000008;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;667618695;17004;Ballesteries;39;Ballesteries,39
+HUTG-022145         ;77;;Ballesteries, 39, 2n. 1a.;Girona;41.9862633;2.8246970999999803;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;667618695;17004;Ballesteries;39;Ballesteries,39
+HUTG-022146         ;51;;Ballesteries, 39, 3r. 1a.;Girona;41.9862633;2.8246970999999803;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;667618695;17004;Ballesteries;39;Ballesteries,39
+HUTG-022147         ;83;;Ballesteries, 39, 4t. 1a.;Girona;41.9862633;2.8246970999999803;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;667618695;17004;Ballesteries;39;Ballesteries,39
+HUTG-022149         ;89;;Gran Via Jaume I, 40, 1r. 2A;Girona;41.98356649999999;2.819450599999982;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609386910;17001;Gran Via Jaume I;40;Gran Via Jaume I,40
+HUTG-022150         ;06;;Gran Via Jaume I, 40, 1r. 1A;Girona;41.98356649999999;2.819450599999982;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609386910;17001;Gran Via Jaume I;40;Gran Via Jaume I,40
+HUTG-022151         ;09;;Gran Via Jaume I, 40, 1r. 1B;Girona;41.98356649999999;2.819450599999982;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609386910;17001;Gran Via Jaume I;40;Gran Via Jaume I,40
+HUTG-022152         ;08;;Gran Via Jaume I, 40, 1r. 2B;Girona;41.98356649999999;2.819450599999982;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609386910;17001;Gran Via Jaume I;40;Gran Via Jaume I,40
+HUTG-022154         ;10;;Ballesteries, 3, 3r. 2a.;Girona;41.9854845;2.8249304999999367;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;610462874;17004;Ballesteries;3;Ballesteries,3
+HUTG-022357         ;38;;Ballesteries, 15, 1r.;Girona;41.9857135;2.8249164000000064;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;676971889;17004;Ballesteries;15;Ballesteries,15
+HUTG-022358         ;00;;Cort Reial, 3, 2n. 2a.;Girona;41.9847441;2.825118800000041;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;619537418;17004;Cort Reial;3;Cort Reial,3
+HUTG-022360         ;83;;Cort Reial, 12, 2n.;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;669109880;17004;Cort Reial;12;Cort Reial,12
+HUTG-022361         ;86;;Cort Reial, 12, 3r.;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;669109880;17004;Cort Reial;12;Cort Reial,12
+HUTG-022362         ;85;;Cort Reial, 12, 4t.;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;669109880;17004;Cort Reial;12;Cort Reial,12
+HUTG-022470         ;96;;41.9886849;Girona;41.9886849;2.829401100000041; 2n.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;656499808;17007;Pda Torrassa;68;Pda Torrassa,68
+HUTG-022471         ;02;;Cort Reial, 15, 3r. 1a.;Girona;41.9848377;2.825032800000031;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;615664510;17004;Cort Reial;15;Cort Reial,15
+HUTG-022728         ;51;;Germans Busquets, 2, 3r.;Girona;41.983185;2.8241596999999956;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972416391;17004;Germans Busquets;2;Germans Busquets,2
+HUTG-022729         ;69;;Força, 7, 2n. 2a.;Girona;41.9856389;2.825146200000063;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;615281893;17004;Força;7;Força,7
+HUTG-022730         ;16;;Mercaders, 6, 1r. B;Girona;41.9836308;2.8246099000000413;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;639326888;17004;Mercaders;6;Mercaders,6
+HUTG-022731         ;19;;Cristòfol Gròber, 2, 3r. D;Girona;41.9828036;2.8210685999999896;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;615664510;17001;Cristòfol Gròber;2;Cristòfol Gròber,2
+HUTG-022945         ;49;;Pl Sant Pere, 3, 3r. 1a.;Girona;41.9894849;2.8251735000000053;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629794360;17004;Pl Sant Pere;3;Pl Sant Pere,3
+HUTG-022946         ;87;;Pl Sant Pere, 3, 3r. 2a.;Girona;41.9894849;2.8251735000000053;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;amadeumonso@gmail.com;629794360;17004;Pl Sant Pere;3;Pl Sant Pere,3
+HUTG-022947         ;55;;Pg General Mendoza, 7, 1r. 1a.;Girona;41.979193;2.823456800000031;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;622582712;17002;Pg General Mendoza;7;Pg General Mendoza,7
+HUTG-022948         ;89;;41.9885959;Girona;41.9885959;2.825406199999975; bxs 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;679579449;17004;Pda Rei Martí;8;Pda Rei Martí,8
+HUTG-022950         ;75;;Pl Bell-lloc, 4, 3r. 2-B;Girona;41.98250789999999;2.82471350000003;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616515322;17004;Pl Bell;lloc;Pl Bell,lloc
+HUTG-022951         ;78;;Pl Bell-lloc, 4, 3r. 2-A;Girona;41.98250789999999;2.82471350000003;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616515322;17004;Pl Bell;lloc;Pl Bell,lloc
+HUTG-022952         ;77;;Ballesteries, 23, 1r.;Girona;41.9858832;2.8248544000000493;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;655341258;17004;Ballesteries;23;Ballesteries,23
+HUTG-023099         ;47;;Llebre, 3, bxs. 1a.;Girona;41.9839192;2.8259865999999647; bxs. 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616023269;17004;Llebre;3;Llebre,3
+HUTG-023100         ;21;;Llebre, 3, 3r.;Girona;41.9839192;2.8259865999999647;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616023269;17004;Llebre;3;Llebre,3
+HUTG-023101         ;24;;Pou Rodó, 22, bxs 2a.;Girona;41.9888311;2.8252880000000005; bxs 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;972416391;17004;Pou Rodó;22;Pou Rodó,22
+HUTG-023102         ;23;;Barca, 10-14, 3r. 1a.;Girona;41.981425;2.8188658999999916;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;615664510;17004;Barca;10;Barca,10
+HUTG-023103         ;30;;Sacsimort, 4, 3r. 1a.;Girona;41.9885828;2.825723700000026;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;615664510;17004;Sacsimort;4;Sacsimort,4
+HUTG-023411         ;57;;Hortes, 7, escala 3, 1r. 1a.;Girona;42.1247517;3.134456699999987;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616840508;17004;Hortes;7;Hortes,7
+HUTG-023412         ;56;;Av Gran Via Jaume I, 41, 6è. 3a.;Girona;41.9818;2.8202999999999747;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;657754966;17001;Av Gran Via Jaume I;41;Av Gran Via Jaume I,41
+HUTG-023413         ;63;;Pl Marquès de Camps, 8, 4t. 1a.;Girona;41.9819705;2.8187253999999484;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-; bookings@girona-accommodation.com;695097612;17002;Pl Marquès de Camps;8;Pl Marquès de Camps,8
+HUTG-023414         ;58;;Força, 33, 2n. 1a.;Girona;41.9871546;2.82503870000005;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;emilia.colomer@gmail.com;630787575;17004;Força;33;Força,33
+HUTG-023415         ;70;;Pg José Canalejas, 1, escala 4, 1r. 2a.;Girona;41.9864633;2.8236352000000124;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616515322;17004;Pg José Canalejas;1;Pg José Canalejas,1
+HUTG-023416         ;60;;Pedret, 25, 2n. 2a.;Girona;41.9915455;2.8258772000000363;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;616515322;17007;Pedret;25;Pedret,25
+HUTG-023417         ;76;;Força, 23, 1r. 3a.;Girona;41.9864541;2.8251450000000204;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;677321312;17004;Força;23;Força,23
+HUTG-023418         ;62;;Barca, 19, 2n. A;Girona;41.9519499;2.8077200000000175;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;605237372;17004;Barca;19;Barca,19
+HUTG-023933         ;09;;Hortes, 7, ent 2a.;Girona;41.350607;2.0341849999999795;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609386910;17001;Hortes;7;Hortes,7
+HUTG-023934         ;04;;Hortes, 7, ent 10a.;Girona;41.9844769;2.822793600000068; ent 10a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609386910;17001;Hortes;7;Hortes,7
+HUTG-023935         ;15;;Hortes, 7, ent 1a.;Girona;41.9844769;2.822793600000068; ent 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;609386910;17001;Hortes;7;Hortes,7
+HUTG-023936         ;06;;Pl Independència, 12, 2n. B;Girona;41.9860956;2.823903599999994;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;607820280;17001;Pl Independència;12;Pl Independència,12
+HUTG-023937         ;21;;Isabel la Catòlica, 8, 1r. B;Girona;41.9779121;2.825739800000065;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;630017737;17004;Isabel la Catòlica;8;Isabel la Catòlica,8
+HUTG-023938         ;08;;Santander, 10, àtic 1a.;Girona;41.9755489;2.8141407000000527; àtic 1a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;610633427;17008;Santander;10;Santander,10
+HUTG-023939         ;27;;Ferreries Velles, 27, 2n. 2a.;Girona;41.9846847;2.8252674000000297;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;649887006;17004;Ferreries Velles;27;Ferreries Velles,27
+HUTG-023940         ;47;;Mercaders, 6, 3r. 2a.;Girona;41.9836308;2.8246099000000413;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;669109880;17004;Mercaders;6;Mercaders,6
+HUTG-023941         ;50;;Mercaders, 6, 4t. 3a.;Girona;41.9836308;2.8246099000000413;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;669109880;17004;Mercaders;6;Mercaders,6
+HUTG-024176         ;90;;Portal Nou, 26, bxs;Girona;41.984082;2.827097399999957; bxs	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;26;Portal Nou,26
+HUTG-024177         ;85;;Portal Nou, 26, 1r. 1a.;Girona;41.984082;2.827097399999957;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;26;Portal Nou,26
+HUTG-024178         ;92;;Portal Nou, 26, 1r. 2a.;Girona;41.984082;2.827097399999957;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;26;Portal Nou,26
+HUTG-024179         ;91;;Portal Nou, 26, 2n. 1a.;Girona;41.984082;2.827097399999957;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;26;Portal Nou,26
+HUTG-024180         ;48;;Portal Nou, 26, 2n. 2a.;Girona;41.984082;2.827097399999957;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;26;Portal Nou,26
+HUTG-024181         ;51;;Portal Nou, 28, 1r. 1a.;Girona;41.9841686;2.8271349999999984;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;28;Portal Nou,28
+HUTG-024182         ;50;;Portal Nou, 28, 1r. 2a.;Girona;41.9841686;2.8271349999999984;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;28;Portal Nou,28
+HUTG-024183         ;57;;Portal Nou, 28, 2n. 1a.;Girona;41.9841686;2.8271349999999984;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;28;Portal Nou,28
+HUTG-024184         ;52;;Portal Nou, 28, 2n. 2a.;Girona;41.9841686;2.8271349999999984;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;28;Portal Nou,28
+HUTG-024185         ;10;;Portal Nou, 28, 2n. 3a.;Girona;41.9841686;2.8271349999999984;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;629340890;17004;Portal Nou;28;Portal Nou,28
+HUTG-024186         ;54;;Portal Nou, 28, bxs;Girona;41.9841686;2.8271349999999984; bxs	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;;;17004;Portal Nou;28;Portal Nou,28
+HUTG-024734         ;38;;Barca, 17, 1r. 3a.;Girona;41.3915292;2.175094299999955;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cris.sanchis.m@gmail.com;670470824;17004;Barca;17;Barca,17
+HUTG-024735         ;64;;Pl Sant Ponç, 3, 3r. 4a.;Girona;41.9943939;2.8203419999999824;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;irina.shim@list.ru;622212712;17007;Pl Sant Ponç;3;Pl Sant Ponç,3
+HUTG-024736         ;40;;Pedret, 1, 2n. 4a.;Girona;41.9902402;2.8258329999999887;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;daniel.bassas@gmail.com;654077727;17007;Pedret;1;Pedret,1
+HUTG-024737         ;70;;Bernat Boades, 88-90, escala A, 4t. 2a.;Girona;41.98022;2.812599999999975;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;lcplanes@gmail.com;649997702;17005;Bernat Boades;88;Bernat Boades,88
+HUTG-024738         ;42;;Bassegoda, 18, 3r.;Girona;41.9758912;2.8048555000000306;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;therna23@gmail.com;649945131;17006;Bassegoda;18;Bassegoda,18
+HUTG-024739         ;76;;Rutlla, 32, 1r. 2a.;Girona;41.9777733;2.8231791000000612;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@remarent.com;618446958;17002;Rutlla;32;Rutlla,32
+HUTG-024740         ;81;;Mora, 12, bxs;Girona;41.9829055;2.826163500000007; bxs	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;A3lluis@gmail.com;638091219;17004;Mora;12;Mora,12
+HUTG-024741         ;84;;Olivera, 6, 3r. 5a.;Girona;41.9755085;2.8257189999999355;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;esther.saiz.mollet@gmail.com;670054057;17004;Olivera;6;Olivera,6
+HUTG-024742         ;83;;Olivera, 6, 1r. 1a.;Girona;41.9755085;2.8257189999999355;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;daecorreu@gmail.com;647331784;17004;Olivera;6;Olivera,6
+HUTG-024743         ;90;;Tomás de Lorenzana, 35 A, 2n. 2a.;Girona;41.9785081;2.8201139999999896; 2n. 2a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;jam0454@hotmail.com;676011616;17002;Tomás de Lorenzana;35;Tomás de Lorenzana,35
+HUTG-024744         ;85;;Ferreries Velles, 19, 1r. 2a.;Girona;41.9843764;2.825158600000009;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;inverpletis@gmail.com;655625531;17004;Ferreries Velles;19;Ferreries Velles,19
+HUTG-024745         ;49;;Perill, 3, 2n. D;Girona;41.9835181;2.8224979000000303;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17004;Perill;3;Perill,3
+HUTG-024746         ;87;Girona Cool Apartments;Calderers, 3, 3r. 1a.;Girona;41.98743169999999;2.8240878000000293;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@gironacoolapartments.com;+34628596687;17004;Calderers;3;Calderers,3
+HUTG-024747         ;55;;Pl Sant Pere, 2, 1r. 2a.;Girona;41.9894185;2.825107800000069;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;ggs@3rambiental.cat;653683738;17007;Pl Sant Pere;2;Pl Sant Pere,2
+HUTG-024748         ;89;;Av Gran Via Jaume I, 35 A, 5è. 1a.;Girona;41.9827693;2.8199898000000303;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hugosd@gmail.com;606705064;17001;Av Gran Via Jaume I;35;Av Gran Via Jaume I,35
+HUTG-024871         ;43;;Força, 7, 4t. 2a.;Girona;41.9856389;2.825146200000063;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;estanyesther@gmail.com;615281893;17002;Força;7;Força,7
+HUTG-024872         ;42;;Pl Sant Pere, 2, 3r. 1a.;Girona;41.9894185;2.825107800000069;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;erica.van.rafelghem@gmail.com;637599366;17004;Pl Sant Pere;2;Pl Sant Pere,2
+HUTG-025062         ;66;;Marquès Caldes de Montbuí, 77-79, 1r. 3a.;Girona;41.9689489;2.8191314000000602;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cserventbatlle@yahoo.com;606271309;17003;Marquès Caldes de Montbuí;77;Marquès Caldes de Montbuí,77
+HUTG-025063         ;73;;Barca, 25, 3r. 1a.;Girona;41.9799245;2.818652899999961;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@sleepandstay.com;615664510;17004;Barca;25;Barca,25
+HUTG-025064         ;68;;Santa Clara, 52, 4t.;Girona;41.98482;2.8235422999999855;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;a.ripoll@quires.com;674204678;17001;Santa Clara;52;Santa Clara,52
+HUTG-025065         ;73;;Santa Clara, 8, 2n. 1a.;Girona;41.9824868;2.8228070000000116;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;sinfo@girorooms.com;972416391;17001;Santa Clara;8;Santa Clara,8
+HUTG-025066         ;70;;Can Sunyer, 1, 2n. 2a.;Girona;41.9928225;2.8102934999999434;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;jojaina40@gmail.com;628415100;17007;Can Sunyer;1;Can Sunyer,1
+HUTG-025067         ;79;;Nou, 20, 1r. 2a.;Girona;41.9826911;2.820533800000021;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;xellmv@gmail.com;650562643;17001;Nou;20;Nou,20
+HUTG-025068         ;72;;Nord, 8-10, 3r. 2a.;Girona;41.9849835;2.822909799999934;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17001;Nord;8;Nord,8
+HUTG-025069         ;85;;Ballesteries, 19, 3r.;Girona;41.9857977;2.8248886000000084;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;jgruartmoner@yahoo.es;666029269;17004;Ballesteries;19;Ballesteries,19
+HUTG-025070         ;56;;Pedret, 48, 1r.;Girona;41.9925063;2.8264017000000194;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;meritxellroig1@gmail.com;620066367;17007;Pedret;48;Pedret,48
+HUTG-025071         ;59;;Bassegoda, 17, escala B, 1r. 1a.;Girona;42.1100194;3.1529507000000194;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;therna23@gmail.com;649945131;17007;Bassegoda;17;Bassegoda,17
+HUTG-025243         ;59;;Ferreries Velles, 1, 3r. 4a.;Girona;41.98341509999999;2.824646199999961;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@sleepandstay.com;615664510;17004;Ferreries Velles;1;Ferreries Velles,1
+HUTG-025244         ;54;;Força, 17, 4t.;Girona;41.9861655;2.8251635999999962;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Força;17;Força,17
+HUTG-025245         ;30;;Força, 17, 2n. 2a.;Girona;41.9861655;2.8251635999999962;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Força;17;Força,17
+HUTG-025246         ;56;;Nord, 8-10, 3r. 3a.;Girona;41.9849835;2.822909799999934;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Nord;8;Nord,8
+HUTG-025247         ;36;;Nord, 8-10, 1r. 3a.;Girona;41.9849835;2.822909799999934;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Nord;8;Nord,8
+HUTG-025248         ;58;;Força, 7, 3r. 2a.;Girona;41.9856389;2.825146200000063;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;estanyesther@gmail.com;615281893;17004;Força;7;Força,7
+HUTG-025249         ;42;;Creu, 53, 5è. 1a.;Girona;41.9762367;2.818213499999956;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;montsecornella@gmail.com;686853420;17002;Creu;53;Creu,53
+HUTG-025250         ;56;;Força, 17, 2n. 1a.;Girona;41.9861655;2.8251635999999962;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Força;17;Força,17
+HUTG-025251         ;59;;Albereda, 16, 4t.;Girona;41.982001;2.8239505000000236;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;aricasanovas@gmail.com;607456669;17004;Albereda;16;Albereda,16
+HUTG-025252         ;58;;Rda Fort Roig, 23;Girona;41.9940744;2.8341748999999936;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;judithsatuna@hotmail.com;629324636;17007;Rda Fort Roig;23;Rda Fort Roig,23
+HUTG-025283         ;02;;Josep Maluquer i Salvador, 24, ent 3a.;Girona;41.9764394;2.822142699999972; ent 3a.	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;ovidi.segurana@gmail.com;651891412;17002;Josep Maluquer i Salvador;24;Josep Maluquer i Salvador,24
+HUTG-025284         ;94;;Pg Olot, 58, 4t. 3a.;Girona;41.9752995;2.8061497999999574;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;dsaavedra@gmail.com;635501314;17006;Pg Olot;58;Pg Olot,58
+HUTG-025285         ;42;;Força, 33, 1r. 1a.;Girona;41.9871546;2.82503870000005;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;fxsfer@gmail.com;669799150;17004;Força;33;Força,33
+HUTG-025308         ;39;;Joaquim Vayreda, 51, 3r. 1a.;Girona;41.9843178;2.8141918000000032;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cserventbatlle@yahoo.com;606271309;17001;Joaquim Vayreda;51;Joaquim Vayreda,51
+HUTG-025309         ;46;;Hortes, 20, 3r. 2a.;Girona;41.9845421;2.822411099999954;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;jtarres@montjusa.com;630209785;17001;Hortes;20;Hortes,20
+HUTG-025310         ;61;;Pl Vi, 9, 1r. 1a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025311         ;64;;Pl Vi, 9, 1r. 2a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025312         ;63;;Pl Vi, 9, 2n. 1a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025313         ;70;;Pl Vi, 9, 2n. 2a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025314         ;65;;Pl Vi, 9, 3r. 1a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025315         ;43;;Pl Vi, 9, 3r. 2a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025316         ;67;;Pl Vi, 9, 4t. 1a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025317         ;49;;Pl Vi, 9, 4t. 2a.;Girona;41.9831296;2.8244627000000264;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;direccio@hotelciutatdegirona.com;972483038;17004;Pl Vi;9;Pl Vi,9
+HUTG-025334         ;28;;Ferreries Velles, 1, 1r. 3a.;Girona;41.98341509999999;2.824646199999961;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@festamar.com;972757886;17004;Ferreries Velles;1;Ferreries Velles,1
+HUTG-025335         ;61;;Ferreries Velles, 1, 2n. 4a.;Girona;41.98341509999999;2.824646199999961;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@festamar.com;972757886;17004;Ferreries Velles;1;Ferreries Velles,1
+HUTG-025336         ;30;;Ferreries Velles, 1, 1r. 4a.;Girona;41.98341509999999;2.824646199999961;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@festamar.com;972757886;17004;Ferreries Velles;1;Ferreries Velles,1
+HUTG-025434         ;13;;Josep Clarà i Ayats, 5, 3r. C;Girona;41.97132999999999;2.8286900000000514;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joel.masferrer@gmail.com;639327182;17003;Josep Clarà i Ayats;5;Josep Clarà i Ayats,5
+HUTG-025435         ;08;;Santa Eugènia, 58;Girona;41.9803618;2.813965000000053;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@flateli.com;669109880;17005;Santa Eugènia;58;Santa Eugènia,58
+HUTG-025436         ;15;;Barcelona, 41, escala B, 4t. G;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joan@stayingirona.com;636023558;17003;Barcelona;41;Barcelona,41
+HUTG-025764         ;70;;Santa Eugènia, 58;Girona;41.9803618;2.813965000000053;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;info@flateli.com;669109880;17005;Santa Eugènia;58;Santa Eugènia,58
+HUTG-025765         ;93;;Barcelona, 41, escala B, 4t. G;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joan@stayingirona.com;636023558;17003;Barcelona;41;Barcelona,41
+HUTG-025766         ;72;;Barca, 2, 1r. 5a.;Girona;41.9883197;2.8243998000000374;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;lauraservent@gmail.com;649949403;17001;Barca;2;Barca,2
+HUTG-025767         ;02;;Carme, 179, 1r. 2a.;Girona;41.9750501;2.8257498000000396;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;abanchs@botanicum.es;686413668;17004;Carme;179;Carme,179
+HUTG-025768         ;74;;Sant Pau, 3, 1r.;Girona;41.9895216;2.8247704999999996;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;ferransoldevila@hotmail.com;670924703;17007;Sant Pau;3;Sant Pau,3
+HUTG-025837         ;37;;Joan Maragall, 37, àtic;Girona;41.9773215;2.8200544999999693; àtic	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;adria_cpo@hotmail.com;654154819;17002;Joan Maragall;37;Joan Maragall,37
+HUTG-025838         ;29;;Nord, 8-10, 1r. 2a.;Girona;41.9849835;2.822909799999934;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17001;Nord;8;Nord,8
+HUTG-025839         ;43;;Nord, 8-10, 2n. 1a.;Girona;41.9849835;2.822909799999934;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17001;Nord;8;Nord,8
+HUTG-025840         ;68;;Nord, 8-10, 2n. 2a.;Girona;41.9849835;2.822909799999934;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17001;Nord;8;Nord,8
+HUTG-025841         ;71;;Nord, 8-10, 3r. 1a.;Girona;41.9849835;2.822909799999934;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17001;Nord;8;Nord,8
+HUTG-025842         ;70;;Força, 17, 1r. 1a.;Girona;41.9861655;2.8251635999999962;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Força;17;Força,17
+HUTG-025843         ;77;;Força, 17, 1r. 2a.;Girona;41.9861655;2.8251635999999962;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Força;17;Força,17
+HUTG-025844         ;72;;Força, 17, 3r. 1a.;Girona;41.9861655;2.8251635999999962;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Força;17;Força,17
+HUTG-025845         ;16;;Força, 17, 3r. 2a.;Girona;41.9861655;2.8251635999999962;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;cbaldovi@baltack.com;609704214;17004;Força;17;Força,17
+HUTG-025846         ;74;;Santiago Rusiñol, 22, 3r. B;Girona;41.9788151;2.8126022999999805;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;mariajesus2000@hotmail.com;629646999;17005;Santiago Rusiñol;22;Santiago Rusiñol,22
+HUTG-025847         ;22;;Rbla Llibertat, 10, 3r. A;Girona;41.9830102;2.823973199999955;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;gerardfertatje@hotmai.com;675964131;17004;Rbla Llibertat;10;Rbla Llibertat,10
+HUTG-025970         ;62;;Nou, 22, 2n. B;Girona;41.74901;2.5588099000000284;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Nou;22;Nou,22
+HUTG-025971         ;65;;Barcelona, 41, 4t. B;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Barcelona;41;Barcelona,41
+HUTG-025972         ;64;;Regiment de Baza, 8;Girona;41.9802933;2.8277567999999746;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;rosgarganta@hotmail.com;669870554;17004;Regiment de Baza;8;Regiment de Baza,8
+HUTG-026020         ;39;;Barcelona, 41, 4t. H;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Barcelona;41;Barcelona,41
+HUTG-026021         ;42;;Barcelona, 41, 5è. B;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Barcelona;41;Barcelona,41
+HUTG-026022         ;41;;Barcelona, 41, 3r. G;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Barcelona;41;Barcelona,41
+HUTG-026023         ;48;;Barcelona, 41, 3r. H;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Barcelona;41;Barcelona,41
+HUTG-026024         ;43;;Juli Garreta, 28, 2n. G;Girona;41.9783668;2.8187511999999515;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;77895163M;17002;Juli Garreta;28;Juli Garreta,28
+HUTG-026025         ;17;;Nou, 22, àtic A;Girona;41.98274139999999;2.8203284999999596; àtic A	Girona;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Nou;22;Nou,22
+HUTG-026026         ;45;;Barcelona, 41, 3r. D;Girona;41.9785569;2.81795139999997;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17001;Barcelona;41;Barcelona,41
+HUTG-026027         ;23;;Juli Garreta, 28, 3r. G;Girona;41.9783668;2.8187511999999515;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;hello@stayingirona.com;636023558;17002;Juli Garreta;28;Juli Garreta,28
+HUTG-026028         ;47;;Barca, 16, 2n. 4a.;Girona;41.98110579999999;2.8187328000000207;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;antoniaboix@gmail.com;625503313;17004;Barca;16;Barca,16
+HUTG-026029         ;29;;Barca, 23, 2n.;Girona;41.9800298;2.8186871999999994;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;mcarreras999@gmail.com;629342461;17004;Barca;23;Barca,23
+HUTG-026114         ;62;;Trav Portal Nou, 4, 2n. 2a.;Girona;41.9844263;2.826779600000009;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;ferransoldevila@hotmail.com;670924703;17004;Trav Portal Nou;4;Trav Portal Nou,4
+HUTG-026122         ;50;;Av Lluís Pericot, 88, 3r. 2a.;Girona;41.9666443;2.8216606999999385;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;joaquim.mune@gmail.com;609012866;17003;Av Lluís Pericot;88;Av Lluís Pericot,88
+HUTG-026123         ;57;;Camp d'Or, 34;Girona;41.9982914;2.8392868999999337;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;daniel.bassas@gmail.com;654077727;17007;Camp d'Or;34;Camp d'Or,34
+HUTG-026124         ;52;;Calderers, 10, 1r. 1a.;Girona;41.987593;2.8241912999999386;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;roberto.m.s.1975@gmial.com;675733191;17004;Calderers;10;Calderers,10
+HUTG-026125         ;10;;Av França, 32, 1r. 2a.;Girona;41.9939419;2.8194816000000174;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;monica.cabruja@gmail.com;607146082;;Av França;32;Av França,32
+HUTG-026304         ;50;;Cort Reial, 5, 1r. A;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;girostaysl@gmail.com;609175860;17004;Cort Reial;5;Cort Reial,5
+HUTG-026305         ;87;;Cort Reial, 5, 1r. B;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;girostaysl@gmail.com;609175860;17004;Cort Reial;5;Cort Reial,5
+HUTG-026306         ;52;;Cort Reial, 5, 2n. A;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;girostaysl@gmail.com;609175860;17004;Cort Reial;5;Cort Reial,5
+HUTG-026307         ;93;;Cort Reial, 5, 2n. B;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;girostaysl@gmail.com;609175860;17004;Cort Reial;5;Cort Reial,5
+HUTG-026308         ;54;;Cort Reial, 5, 3r. A;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;girostaysl@gmail.com;609175860;17004;Cort Reial;5;Cort Reial,5
+HUTG-026309         ;02;;Cort Reial, 5, 3r. B;Girona;41.9848204;2.825028100000054;Gironès;COSTA BRAVA;HAB. ÚS TURÍSTIC;-;girostaysl@gmail.com;609175860;17004;Cort Reial;5;Cort Reial,5
